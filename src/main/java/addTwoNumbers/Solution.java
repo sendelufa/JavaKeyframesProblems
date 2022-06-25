@@ -1,12 +1,7 @@
 package addTwoNumbers;
 
-
-/*
- * https://leetcode.com/problems/add-two-numbers/
- */
-
 public class Solution {
-    //Test cases
+
     public static void main(String[] args) {
         ListNode n1 = new ListNode(9, new ListNode(9, new ListNode(1)));
         ListNode n2 = new ListNode(1);
