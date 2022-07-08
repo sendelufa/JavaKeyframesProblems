@@ -1,4 +1,4 @@
-package _2;
+package AddTwoNumbers;
 
 /**
  * recommend solution

@@ -1,8 +1,8 @@
-package _234;
+package PalindromeLinkedList;
 
 public class Pash {
 
-    public boolean isPalindrome(_234.Aleks.ListNode head) {
+    public boolean isPalindrome(PalindromeLinkedList.Aleks.ListNode head) {
 
         StringBuilder sb = new StringBuilder();
         while (head.next != null) {
@@ -16,7 +16,7 @@ public class Pash {
 
 class ListNode {
     int val;
-    _234.Aleks.ListNode next;
+    PalindromeLinkedList.Aleks.ListNode next;
 
     ListNode() {
     }
@@ -25,7 +25,7 @@ class ListNode {
         this.val = val;
     }
 
-    ListNode(int val, _234.Aleks.ListNode next) {
+    ListNode(int val, PalindromeLinkedList.Aleks.ListNode next) {
         this.val = val;
         this.next = next;
     }

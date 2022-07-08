@@ -1,4 +1,4 @@
-package _217;
+package ContainsDuplicate;
 
 import java.util.Arrays;
 

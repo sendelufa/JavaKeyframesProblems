@@ -1,4 +1,4 @@
-package _217;
+package ContainsDuplicate;
 
 public class Aleks {
     public static void main(String[] args) {

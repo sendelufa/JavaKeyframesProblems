@@ -1,4 +1,4 @@
-package _234;
+package PalindromeLinkedList;
 
 public class K {
     class Solution {

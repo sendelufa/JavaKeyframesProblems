@@ -1,4 +1,4 @@
-package _234;
+package PalindromeLinkedList;
 
 import java.util.ArrayList;
 

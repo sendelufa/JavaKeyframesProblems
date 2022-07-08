@@ -1,4 +1,4 @@
-package _303;
+package RangeSumQueryImmutable;
 
 public class Masl {
     class NumArray {

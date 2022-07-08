@@ -1,4 +1,4 @@
-package _303;
+package RangeSumQueryImmutable;
 
 import java.util.HashMap;
 import java.util.Map;
