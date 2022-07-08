@@ -1,4 +1,4 @@
-package rotateimage;
+package _48;
 
 import java.util.List;
 

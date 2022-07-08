@@ -1,4 +1,4 @@
-package rotateimage;
+package _48;
 
 public class Maslov {
     public void rotate(int[][] matrix) {
