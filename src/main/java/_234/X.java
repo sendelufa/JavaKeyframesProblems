@@ -1,4 +1,4 @@
-package palindromeLinkedList;
+package _234;
 
 public class X {
 

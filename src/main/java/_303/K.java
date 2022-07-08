@@ -1,4 +1,4 @@
-package range_sum.duplicate;
+package _303;
 
 import java.util.HashMap;
 import java.util.Map;
