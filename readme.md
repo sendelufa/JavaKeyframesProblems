@@ -1,15 +1,17 @@
-J???K???????sP??????s
+<br/>
+<p align="center">
+  <h2 align="center">JavaKeyframesProblems</h2>
 
-
-This project stores the results of collective brainstorm sessions solving problems at 
-<a href ='https://leetcode.com/problemset/all/'>Leetcode</a><br>
-
+  <p align="left">
+    This project stores the results of collective brainstorm sessions solving problems at <a href ='https://leetcode.com/problemset/all/'>Leetcode</a><br>
 Check out the calendar for the next session <a href='https://cutt.ly/JJpel8R'>calendar</a><br>
-
 Join our telegram group: <a href='https://t.me/JavaKeyFrames'>JavaKeyFrames</a>
+  <br/>
+  <br/>
+  </p>
+</p>
 
-
-Coding sessions:
+<h4>ᴄᴏᴅɪɴɢ ꜱᴇꜱꜱɪᴏɴꜱ:</h4>
 
 - 07.07.2022:
   - <a href='https://leetcode.com/problems/add-two-numbers/'>Problem #48. Rotate Image</a> -->
