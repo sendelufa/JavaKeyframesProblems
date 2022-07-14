@@ -38,5 +38,21 @@ public class Solution {
         return index >= BAD;
     }
 
+    //Runtime: 18 ms, faster than 62.95% of Java online submissions for First Bad Version.
+    //Memory Usage: 40.9 MB, less than 49.36% of Java online submissions for First Bad Version.
+    public int firstBadVersion2(int n) {
+        int start = 1;
+        int finish = n;
+        int middle;
+        while (start != finish) {
+            middle = start + (finish - start) / 2;
+            if (isBadVersion(middle)) {
+                finish = middle;
+            } else {
+                start = middle + 1;
+            }
+        }
+        return start;
+    }
 
 }
