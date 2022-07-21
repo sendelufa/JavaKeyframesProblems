@@ -1,4 +1,4 @@
-package _234;
+package leetcode.p0234;
 
 public class X {
 

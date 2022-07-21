@@ -1,4 +1,4 @@
-package _217;
+package leetcode.p0217;
 
 public class Aleks {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package _0206;
+package leetcode.p0206;
 
 public class Solution {
 
