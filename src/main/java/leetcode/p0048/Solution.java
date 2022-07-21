@@ -1,4 +1,4 @@
-package _48;
+package leetcode.p0048;
 
 import java.util.List;
 

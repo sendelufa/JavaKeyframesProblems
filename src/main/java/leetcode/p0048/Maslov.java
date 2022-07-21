@@ -1,4 +1,4 @@
-package _48;
+package leetcode.p0048;
 
 public class Maslov {
     public void rotate(int[][] matrix) {

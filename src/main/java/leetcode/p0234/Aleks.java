@@ -1,4 +1,4 @@
-package _234;
+package leetcode.p0234;
 
 import java.util.ArrayList;
 
