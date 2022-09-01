@@ -13,9 +13,16 @@ public class Utils {
         System.out.println();
     }
 
-    public static void printIntArray(int[] ints) {
-        for (int anInt : ints) {
-            System.out.print(anInt);
+    public static <T> void printIntArray(T[] arr) {
+        for (T element : arr) {
+            System.out.print(element);
+        }
+        System.out.println();
+    }
+
+    public static void printIntArray(int[] arr) {
+        for (int element : arr) {
+            System.out.print(element);
         }
         System.out.println();
     }
