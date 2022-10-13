@@ -15,14 +15,21 @@ public class Utils {
 
     public static <T> void printIntArray(T[] arr) {
         for (T element : arr) {
-            System.out.print(element);
+            System.out.print(element + " ");
         }
         System.out.println();
     }
 
     public static void printIntArray(int[] arr) {
         for (int element : arr) {
-            System.out.print(element);
+            System.out.print(element + " ");
+        }
+        System.out.println();
+    }
+
+    public static void printIntArray(boolean[] arr) {
+        for (boolean element : arr) {
+            System.out.print(element + " ");
         }
         System.out.println();
     }
@@ -45,7 +52,9 @@ public class Utils {
     }
 
     public static void printBinaryTree(TreeNode node) {
-        if (node == null) return;
+        if (node == null) {
+            return;
+        }
         System.out.printf("%4d", node.val);
         printBinaryTree(node.left);
         printBinaryTree(node.right);
