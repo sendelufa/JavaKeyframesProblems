@@ -1,10 +1,10 @@
-package leetcode.p0248;
+package leetcode.p0238;
 
 import utils.Utils;
 
-public class Solution248 {
+public class Solution238 {
     public static void main(String[] args) {
-        Utils.printIntArray(new Solution248().productExceptSelf(new int[]{ -10, 2, 3, 4 }));
+        Utils.printIntArray(new Solution238().productExceptSelf(new int[]{ -10, 2, 3, 4 }));
     }
 
     /*
