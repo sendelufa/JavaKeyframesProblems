@@ -19,6 +19,7 @@ This project stores the results of brainstorming sessions solving problems at
 | 21.07.2022 | 🟢 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                         | [solution](src/main/java/leetcode/p0724/) |
 | 01.09.2022 | 🟢 [198. House Robber](https://leetcode.com/problems/house-robber/)                                 | [solution](src/main/java/leetcode/p0198/) |
 | 13.10.2022 | 🟡 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](src/main/java/leetcode/p0238/) |
+| 20.10.2022 | 🟡 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)       | [solution](src/main/java/leetcode/p0287/) |
 
 ## Tips
 
