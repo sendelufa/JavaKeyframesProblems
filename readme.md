@@ -20,6 +20,7 @@ This project stores the results of brainstorming sessions solving problems at
 | 01.09.2022 | 🟢 [198. House Robber](https://leetcode.com/problems/house-robber/)                                 | [solution](src/main/java/leetcode/p0198/) |
 | 13.10.2022 | 🟡 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](src/main/java/leetcode/p0238/) |
 | 20.10.2022 | 🟡 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)       | [solution](src/main/java/leetcode/p0287/) |
+| 03.11.2022 | 🟡 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)           | [solution](src/main/java/leetcode/p0784/) |
 
 ## Tips
 
