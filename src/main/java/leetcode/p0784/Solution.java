@@ -40,9 +40,8 @@ public class Solution {
      **/
     public List<String> letterCasePermutation(String s) {
         char[] lc = s.toCharArray();
-        List<Integer> indexes = new ArrayList<>();
 
-        List<String> result = new ArrayList<>();
+        List<Integer> indexes = new ArrayList<>();
         for (int i = 0; i < lc.length; i++) {
             if (Character.isLetter(lc[i])) {
                 indexes.add(i);
@@ -50,6 +49,7 @@ public class Solution {
         }
 
         int countOfVariants = 1 << indexes.size();
+        List<String> result = new ArrayList<>(countOfVariants);
         for (int i = 0; i < countOfVariants; i++) {
             for (int index = 0; index < indexes.size(); index++) {
                 //остаток от деления - медленная операция в этом решении
