@@ -22,6 +22,7 @@ This project stores the results of brainstorming sessions solving problems at
 | 20.10.2022 | 🟡 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)       | [solution](src/main/java/leetcode/p0287/) |
 | 27.10.2022 | 🟡 [79. Word Search](https://leetcode.com/problems/word-search/)                                    | [solution](src/main/java/leetcode/p0079/) |
 | 03.11.2022 | 🟡 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)           | [solution](src/main/java/leetcode/p0784/) |
+| 17.11.2022 | 🟢 [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                               | [solution](src/main/java/leetcode/p0338/) |}
 
 ## Tips
 
