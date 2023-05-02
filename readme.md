@@ -26,6 +26,7 @@ This project stores the results of brainstorming sessions solving problems at
 | 17.11.2022 | 🟢 [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                      | [solution](src/main/java/leetcode/p0338/)                       |
 | 09.03.2023 | 🔴 [Яндекс.Контест 30. НОП с восстановлением ответа](src/main/java/yandex_contest_2023/b30/readme.md)      | [solution](src/main/java/yandex_contest_2023/b30/Solution.java) |
 | 23.03.2023 | 🟡 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [solution](src/main/java/leetcode/p0019/)                       |
+| 27.04.2023 | 🟡 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)                                           | [solution](src/main/java/leetcode/p0091/)                       |
 
 ## Tips
 
